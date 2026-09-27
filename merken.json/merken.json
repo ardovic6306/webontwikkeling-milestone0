@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "BMW",
+    "country": "Duitsland"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes-Benz",
+    "country": "Duitsland"
+  },
+  {
+    "id": 3,
+    "name": "Porsche",
+    "country": "Duitsland"
+  },
+  {
+    "id": 4,
+    "name": "Audi",
+    "country": "Duitsland"
+  },
+  {
+    "id": 5,
+    "name": "Ferrari",
+    "country": "Italië"
+  },
+  {
+    "id": 6,
+    "name": "Lamborghini",
+    "country": "Italië"
+  },
+  {
+    "id": 7,
+    "name": "Tesla",
+    "country": "Verenigde Staten"
+  },
+  {
+    "id": 8,
+    "name": "Range Rover",
+    "country": "Verenigd Koninkrijk"
+  }
+]
