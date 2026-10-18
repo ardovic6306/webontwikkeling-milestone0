@@ -20,12 +20,19 @@ function filterOpId(id: number): void {
             return merk.id === auto.brandId;
         });
 
-        console.log("\nAuto gevonden:");
+console.log("\nAuto gevonden:");
         console.log("ID: " + auto.id);
         console.log("Model: " + auto.model);
         console.log("Categorie: " + auto.category);
-        console.log("Merk: " + (merk ? merk.name : "Onbekend"));
-        console.log("Land van merk: " + (merk ? merk.country : "Onbekend"));
+
+        if (merk) {
+            console.log("Merk: " + merk.name);
+            console.log("Land van merk: " + merk.country);
+        } else {
+            console.log("Merk: Onbekend");
+            console.log("Land van merk: Onbekend");
+        }
+
         console.log("Bouwjaar: " + auto.year);
         console.log("Prijs: €" + auto.price);
         console.log("Kilometerstand: " + auto.mileageKm + " km");
