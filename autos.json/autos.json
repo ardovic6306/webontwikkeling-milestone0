@@ -1,0 +1,192 @@
+[
+  {
+    "model": "BMW M3 Competition",
+    "category": "sportscar",
+    "brandId": 1,
+    "image": "images/bmw-m3-competition.jpg",
+    "year": 2025,
+    "price": 108000,
+    "mileageKm": 6200,
+    "electric": false,
+    "bodyType": "sedan",
+    "features": [
+      "M Sport remmen",
+      "sportstoelen",
+      "adaptieve ophanging"
+    ],
+    "addedOn": "2026-09-01",
+    "description": "Een krachtige sportieve sedan die prestaties combineert met dagelijks comfort.",
+    "id": 1
+  },
+  {
+    "model": "Mercedes-AMG GT 63 S",
+    "category": "sportscar",
+    "brandId": 2,
+    "image": "images/mercedes-amg-gt-63.jpg",
+    "year": 2025,
+    "price": 195000,
+    "mileageKm": 3400,
+    "electric": false,
+    "bodyType": "coupe",
+    "features": [
+      "AMG Performance",
+      "4MATIC+",
+      "sportuitlaat"
+    ],
+    "addedOn": "2026-09-02",
+    "description": "Een luxueuze performance-coupe met veel vermogen en een sportief interieur.",
+    "id": 2
+  },
+  {
+    "model": "Porsche 911 Carrera GTS",
+    "category": "sportscar",
+    "brandId": 3,
+    "image": "images/porsche-911-gts.jpg",
+    "year": 2024,
+    "price": 168000,
+    "mileageKm": 8700,
+    "electric": false,
+    "bodyType": "coupe",
+    "features": [
+      "Sport Chrono",
+      "GTS interieur",
+      "sportuitlaat"
+    ],
+    "addedOn": "2026-09-03",
+    "description": "Een iconische sportwagen met sterke prestaties en een comfortabel interieur.",
+    "id": 3
+  },
+  {
+    "model": "Audi RS6 Avant",
+    "category": "dailycar",
+    "brandId": 4,
+    "image": "images/audi-rs6-avant.jpg",
+    "year": 2025,
+    "price": 145000,
+    "mileageKm": 5100,
+    "electric": false,
+    "bodyType": "stationwagon",
+    "features": [
+      "quattro",
+      "RS sportstoelen",
+      "grote kofferruimte"
+    ],
+    "addedOn": "2026-09-04",
+    "description": "Een snelle en praktische stationwagen met veel ruimte voor dagelijks gebruik.",
+    "id": 4
+  },
+  {
+    "model": "Ferrari 296 GTB",
+    "category": "supercar",
+    "brandId": 5,
+    "image": "images/ferrari-296-gtb.jpg",
+    "year": 2025,
+    "price": 320000,
+    "mileageKm": 2100,
+    "electric": true,
+    "bodyType": "coupe",
+    "features": [
+      "V6 hybride",
+      "carbon interieur",
+      "launch control"
+    ],
+    "addedOn": "2026-09-05",
+    "description": "Een moderne hybride supercar met een krachtige V6-motor.",
+    "id": 5
+  },
+  {
+    "model": "Lamborghini Revuelto",
+    "category": "supercar",
+    "brandId": 6,
+    "image": "images/lamborghini-revuelto.jpg",
+    "year": 2025,
+    "price": 600000,
+    "mileageKm": 900,
+    "electric": true,
+    "bodyType": "coupe",
+    "features": [
+      "V12",
+      "hybride aandrijving",
+      "carbon chassis"
+    ],
+    "addedOn": "2026-09-06",
+    "description": "Een spectaculaire hybride V12-supercar met extreme prestaties.",
+    "id": 6
+  },
+  {
+    "model": "Tesla Model S Plaid",
+    "category": "dailycar",
+    "brandId": 7,
+    "image": "images/tesla-model-s-plaid.jpg",
+    "year": 2025,
+    "price": 115000,
+    "mileageKm": 7200,
+    "electric": true,
+    "bodyType": "sedan",
+    "features": [
+      "Autopilot",
+      "glass roof",
+      "snelle acceleratie"
+    ],
+    "addedOn": "2026-09-07",
+    "description": "Een volledig elektrische performance-sedan met veel vermogen en ruimte.",
+    "id": 7
+  },
+  {
+    "model": "Range Rover Autobiography",
+    "category": "suv",
+    "brandId": 8,
+    "image": "images/range-rover-autobiography.jpg",
+    "year": 2025,
+    "price": 185000,
+    "mileageKm": 4300,
+    "electric": false,
+    "bodyType": "SUV",
+    "features": [
+      "luchtvering",
+      "lederen interieur",
+      "panoramadak"
+    ],
+    "addedOn": "2026-09-08",
+    "description": "Een luxueuze SUV met veel comfort en ruimte voor lange ritten.",
+    "id": 8
+  },
+  {
+    "model": "BMW X5 M Competition",
+    "category": "suv",
+    "brandId": 1,
+    "image": "images/bmw-x5-m.jpg",
+    "year": 2025,
+    "price": 145000,
+    "mileageKm": 3900,
+    "electric": false,
+    "bodyType": "SUV",
+    "features": [
+      "M xDrive",
+      "sportuitlaat",
+      "M sportstoelen"
+    ],
+    "addedOn": "2026-09-09",
+    "description": "Een krachtige SUV die praktisch gebruik combineert met sportieve prestaties.",
+    "id": 9
+  },
+  {
+    "model": "BMW i7 M70 xDrive",
+    "category": "luxury",
+    "brandId": 1,
+    "image": "images/bmw-i7-m70.jpg",
+    "year": 2025,
+    "price": 179000,
+    "mileageKm": 1800,
+    "electric": true,
+    "bodyType": "limousine",
+    "features": [
+      "executive lounge",
+      "panoramadak",
+      "achterbankscherm"
+    ],
+    "addedOn": "2026-09-10",
+    "description": "Een elektrische luxelimousine met veel comfort en een ruime achterbank.",
+    "id": 10
+  }
+]
